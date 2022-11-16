@@ -1,0 +1,49 @@
+body {
+    background-color: azure;
+    font-family:monospace;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.secondTitle{
+    text-align: left;
+    padding-top: 70px;
+}
+.mainBox{
+    text-align: center;
+    width: 700px;
+    height: 500px;
+    background-color: rgb(250, 250, 250);
+    margin: auto;
+    box-shadow: 1px 1px 1px 1px;
+ border-radius: 4px;
+}
+.nameGeneratorBox {
+    color: beige;
+    width: 610px;
+    height: 250px;
+    padding: 10px;
+    border: 4px dashed gray;
+    margin: auto;
+    
+    
+}
+.nameText{
+    color:gray;
+}
+.buttonarea{
+    padding: 30px;
+  
+}
+.generatorButton{
+    color:rgb(255, 255, 255);
+    background-color: red;
+    border-radius: 30px;
+    cursor: pointer;
+    border-color: red;
+    scale: 300%;
+    border: none;
+   
+}
